@@ -60,8 +60,8 @@ You can install them using pip:
 ### Setup and Execution
 
 The project is contained within two Jupyter notebooks:
-* `group14_semrel_complete_hausa_new_latest.ipynb` for the Hausa language analysis.
-* `group14_semrel_complete_amharic (1).ipynb` for the Amharic language analysis.
+* `group14_semrel_complete_hausa.ipynb` for the Hausa language analysis.
+* `group14_semrel_complete_amharic.ipynb` for the Amharic language analysis.
 
 To run the analysis, open either notebook in a compatible environment (like Google Colab) and execute the cells in order. The notebooks will automatically clone the required [`Semantic_Relatedness_SemEval2024`](https://github.com/semantic-textual-relatedness/Semantic_Relatedness_SemEval2024) repository to access the datasets.
 
